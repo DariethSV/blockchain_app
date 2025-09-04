@@ -1,6 +1,6 @@
 # Blockchain_app
 
-# Proyecto Blockchain - Registro de Revistas Depredadoras 🔗
+# Proyecto Blockchain - Registro de Revistas Depredadoras 
 
 Este proyecto implementa una red blockchain en **Hyperledger Fabric** para registrar y consultar revistas depredadoras.  
 Forma parte del trabajo final de la materia **Fundamentos de Blockchain y Sistemas DLT**.
