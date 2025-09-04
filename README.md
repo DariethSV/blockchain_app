@@ -43,5 +43,23 @@ Antes de clonar este repositorio asegúrate de tener instalado en tu máquina:
    cd blockchain_app
 
 2. **Levantar la red de prueba**
-
    
+   ```bash
+   ./network.sh up createChannel
+   
+3. **Desplegar el chaincode de revistas**
+   
+   ```bash
+   ./network.sh deployCC -ccn revistas -ccp ../chaincode/revistas -ccl go
+
+4. **Registrar una revista**
+   
+   ```bash
+   ./network.sh cc invoke -C mychannel -ccn revistas -c '{"Args":["CrearRevista","rev1","Fake Journal of AI","Predatory Press","Nigeria","sospechosa","2025-09-04"]}'
+   
+5. **Consultar una revista por ID**
+   
+   ```bash
+   peer chaincode query -C mychannel -n revistas -c '{"Args":["LeerRevista","rev1"]}'
+
+  
