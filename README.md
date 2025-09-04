@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blockchain_app
 ### Leidy Carolina Obando Figueroa - Darieth Farid Sanchez 
 # Proyecto Blockchain - Registro de Revistas Depredadoras 
