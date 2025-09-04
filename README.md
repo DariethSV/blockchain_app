@@ -1,4 +1,4 @@
-# blockchain_app
+# Blockchain_app
 
 # Proyecto Blockchain - Registro de Revistas Depredadoras 🔗
 
