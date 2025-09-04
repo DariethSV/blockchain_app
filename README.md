@@ -1,6 +1,5 @@
 # Blockchain_app
-### Leidy Carolina Obando Figueroa
-### Darieth Farid Sanchez 
+### Leidy Carolina Obando Figueroa - Darieth Farid Sanchez 
 # Proyecto Blockchain - Registro de Revistas Depredadoras 
 
 Este proyecto implementa una red blockchain en **Hyperledger Fabric** para registrar y consultar revistas depredadoras.  
