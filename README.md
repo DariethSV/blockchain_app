@@ -1,13 +1,13 @@
 # blockchain_app
 
-# Proyecto Blockchain - Registro de Revistas Depredadoras 📚🔗
+# Proyecto Blockchain - Registro de Revistas Depredadoras 🔗
 
 Este proyecto implementa una red blockchain en **Hyperledger Fabric** para registrar y consultar revistas depredadoras.  
 Forma parte del trabajo final de la materia **Fundamentos de Blockchain y Sistemas DLT**.
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 La red permite registrar revistas académicas sospechosas o depredadoras en un **ledger inmutable**.  
 Cada revista contiene los siguientes datos:
@@ -23,7 +23,7 @@ El chaincode (`revistas`) está desarrollado en **Go** y desplegado en un canal 
 
 ---
 
-## ⚙️ Requisitos previos
+##  Requisitos previos
 
 Antes de clonar este repositorio asegúrate de tener instalado en tu máquina:
 
@@ -34,7 +34,7 @@ Antes de clonar este repositorio asegúrate de tener instalado en tu máquina:
 
 ---
 
-## 🚀 Instrucciones de uso
+##  Instrucciones de uso
 
 1. **Clonar el repositorio**  
 
